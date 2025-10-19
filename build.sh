@@ -1,0 +1,1 @@
+jupyter nbconvert --to html --TemplateExporter.exclude_input=True  main.ipynb
